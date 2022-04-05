@@ -45,6 +45,11 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Local Testing
+
+This project uses postgresql.
+.env file with variables is provided in the repo. Locally you will need to create a database `quiz` and then start the app.
+
 ## Test
 
 ```bash
